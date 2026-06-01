@@ -1,0 +1,27 @@
+{
+  "Website": {
+    "domain": "string",
+    "about_page": {
+      "url": "string",
+      "file_path": "string"
+    },
+    "product_listing": {
+      "url": "string",
+      "file_path": "string"
+    }
+  },
+
+  "ProductListing": {
+    "url": "string",
+    "file_path": "string",
+
+    "products": [
+      {
+        "url": "string",
+        "file_path": "string",
+        "depth": 1,
+        "parent_url": "string"
+      }
+    ]
+  }
+}

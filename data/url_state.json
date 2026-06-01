@@ -1,0 +1,234 @@
+[
+  {
+    "url": "https://manifestationmatters.com/category/law-of-attraction/",
+    "url_type": "about",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\c8a4109c4d7b1340d2a3e088799d47c2.html"
+  },
+  {
+    "url": "https://manifestationmatters.com/manifestation-matters-store/",
+    "url_type": "product",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\a5629322d5484822984a6ecac7c1ad03.html"
+  }
+][
+  {
+    "url": "https://manifestationmatters.com/category/law-of-attraction/",
+    "url_type": "about",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\c8a4109c4d7b1340d2a3e088799d47c2.html"
+  },
+  {
+    "url": "https://manifestationmatters.com/manifestation-matters-store/",
+    "url_type": "product",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\a5629322d5484822984a6ecac7c1ad03.html"
+  }
+][
+  {
+    "url": "https://manifestationmatters.com/category/law-of-attraction/",
+    "url_type": "about",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\c8a4109c4d7b1340d2a3e088799d47c2.html"
+  },
+  {
+    "url": "https://manifestationmatters.com/manifestation-matters-store/",
+    "url_type": "product",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\a5629322d5484822984a6ecac7c1ad03.html"
+  },
+  {
+    "url": "https://nextlevelsoul.com/blog/",
+    "url_type": "about",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\9533e76fa7301ad5aa3eecc0ab53a628.html"
+  },
+  {
+    "url": "https://watch.nextlevelsoul.com/category/events_&_workshops",
+    "url_type": "product",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\01f8456ad4bd68cbc67f46a75af3bc30.html"
+  },
+  {
+    "url": "https://elliotoracle.com/",
+    "url_type": "about",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\76187d915cfb6d76c0bf525f5c354d43.html"
+  },
+  {
+    "url": "https://elliotoracle.com/shop/",
+    "url_type": "product",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\0ecf5be392095a386441410ca235fd01.html"
+  },
+  {
+    "url": "https://conjuredcardea.com/",
+    "url_type": "about",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\8d26897de85010c32ec5e02a62acc259.html"
+  },
+  {
+    "url": "https://conjuredcardea.com/collections/all-products",
+    "url_type": "product",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\f830dabd012009786765a66b3fa8b019.html"
+  },
+  {
+    "url": "https://goodinthehead.com/the-mental-hospital/",
+    "url_type": "about",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\1ae01cb9e9bd1596528f1f22ddb52c9e.html"
+  },
+  {
+    "url": "https://goodinthehead.com/books-for-sale/",
+    "url_type": "product",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\e5e673987141e86594a276a1a9894afa.html"
+  },
+  {
+    "url": "https://www.enchanteddragonflyma.com/#AImbkY",
+    "url_type": "about",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\76d5a65374b793f7c0d9113c45aaf915.html"
+  },
+  {
+    "url": "https://www.enchanteddragonflyma.com/s/shop",
+    "url_type": "product",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\82ff2e2a35f8eecd4f229b4a023bb79d.html"
+  },
+  {
+    "url": "https://tanyafengshui.com/about-me/",
+    "url_type": "about",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\4c6cfa2bd259d35e1434a0da5f8a77c9.html"
+  },
+  {
+    "url": "https://tanyafengshui.com/feng-shui-products/",
+    "url_type": "product",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\fd52e9e75ad1221a9243a01fbc33f3e8.html"
+  },
+  {
+    "url": "https://www.atlantisscalar.com/about-atlantis-scalar/",
+    "url_type": "about",
+    "status": "failed",
+    "retries": 1,
+    "last_error": "fetch failed",
+    "html": null
+  },
+  {
+    "url": "https://www.atlantisscalar.com/scalar-services/",
+    "url_type": "product",
+    "status": "failed",
+    "retries": 1,
+    "last_error": "fetch failed",
+    "html": null
+  },
+  {
+    "url": "https://www.thesecret.tv/our-mission/",
+    "url_type": "about",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\60777fd1fe71c2fb3bb854f230e70bff.html"
+  },
+  {
+    "url": "https://www.thesecret.tv/store/",
+    "url_type": "product",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\952002a1bc0414e21ac58fa6435046a1.html"
+  },
+  {
+    "url": "https://dramitjain.org/ourstory/",
+    "url_type": "about",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\16fe207a4ae194bfccf62406603ef834.html"
+  },
+  {
+    "url": "https://dramitjain.org/",
+    "url_type": "product",
+    "status": "success",
+    "retries": 0,
+    "last_error": null,
+    "html": "data/html\\2f00457174e1194148e4e4dadb01b6ad.html"
+  }
+][
+  {
+    "url": "https://organicreverence.com/about",
+    "url_type": "about",
+    "status": "success",
+    "retries": 0,
+    "depth": 0,
+    "last_error": null,
+    "html": "data/html/about/57828039fb279d8c2c76deb511eb9ffc.html"
+  },
+  {
+    "url": "https://organicreverence.com/shop",
+    "url_type": "product",
+    "status": "failed",
+    "retries": 1,
+    "depth": 0,
+    "last_error": "fetch failed",
+    "html": "data/html/products/be7d6d14c366c6966fce522c7bef0d18\\main.html"
+  }
+][
+  {
+    "url": "",
+    "url_type": "about",
+    "status": "success",
+    "retries": 0,
+    "depth": 0,
+    "last_error": null,
+    "html": null
+  },
+  {
+    "url": "https://organicreverence.com/shop",
+    "url_type": "product",
+    "status": "failed",
+    "retries": 1,
+    "depth": 0,
+    "last_error": "fetch failed",
+    "html": "data/html/products/be7d6d14c366c6966fce522c7bef0d18\\main.html"
+  }
+]
